@@ -10,7 +10,6 @@ To retrieve jokes, send a GET request to the /jokes endpoint with an optional co
 
 Example request:
 
-
 bash
 Copy code
 GET /jokes?count=10
