@@ -1,7 +1,6 @@
 package com.jokes.JokesDemo.entity;
 
 import org.springframework.data.mongodb.core.mapping.Document;
-
 @Document(collection = "jokes")
 public class Joke {
     private String type;
